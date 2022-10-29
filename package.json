@@ -1,5 +1,5 @@
 {
-  "name": "y-websocket",
+  "name": "@klale/y-websocket",
   "version": "1.5.0",
   "description": "Websockets provider for Yjs",
   "main": "./dist/y-websocket.cjs",
